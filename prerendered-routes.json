@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/Wiltech-Web": {},
+    "/Wiltech-Web/about": {},
+    "/Wiltech-Web/contact": {},
+    "/Wiltech-Web/home": {},
+    "/Wiltech-Web/project": {},
+    "/Wiltech-Web/service": {}
+  }
+}
